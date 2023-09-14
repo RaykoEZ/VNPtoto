@@ -12,7 +12,7 @@ TagManager:
   - Water
   - UI
   - UIOverlay
-  - 
+  - Gameplay
   - 
   - 
   - 
@@ -41,6 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 3065665181
+    locked: 0
+  - name: Characters
+    uniqueID: 3128302279
+    locked: 0
   - name: Dialogue
     uniqueID: 380700413
+    locked: 0
+  - name: UI
+    uniqueID: 1582596555
     locked: 0
