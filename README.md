@@ -1,2 +1,2 @@
 # VNPtoto
-Prototype for learning to make a Visual Novel game in Unity Engine.
+Prototype for learning to make a Visual Novel game in RenPy Engine.
