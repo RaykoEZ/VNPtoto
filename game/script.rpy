@@ -54,7 +54,7 @@ label goodEnd:
     scene bg room
     show eileen love
     e "Good End"
-    if clue0 == True
+    if clue0 == True:
         call secretUnlock
     # This ends the game.
     return
